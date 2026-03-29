@@ -1,23 +1,24 @@
 [
   {
-    "Author": "KindSheep",
-    "Name": "Starloom",
-    "Punchline": "收藏品提交与工票物品购买助手。",
-    "Description": "用于处理收藏品提交、工票物品购买与制作后流程衔接。",
-    "InternalName": "Starloom",
-    "AssemblyVersion": "0.1.1.0",
-    "RepoUrl": "https://github.com/LienChan666/StarLoom",
+    "Author": "кайт машина (Puni.sh), NightmareXIV",
+    "Name": "AutoRetainer",
+    "InternalName": "AutoRetainer",
+    "AssemblyVersion": "4.5.5.15",
+    "Description": "轻松收取并派遣雇员探险。",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/LienChan666/AutoRetainer",
     "DalamudApiLevel": 14,
-    "TestingAssemblyVersion": "0.1.1.0",
-    "IsTestingExclusive": false,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
+    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+    "Punchline": "轻松收取并派遣雇员探险。",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/LienChan666/DalamudPlugins/master/Starloom/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/LienChan666/DalamudPlugins/master/Starloom/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LienChan666/DalamudPlugins/master/Starloom/latest.zip"
+    "TestingAssemblyVersion": "4.5.5.15",
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/LienChan666/DalamudPlugins/master/AutoRetainer/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/LienChan666/DalamudPlugins/master/AutoRetainer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/LienChan666/DalamudPlugins/master/AutoRetainer/latest.zip"
   }
 ]
