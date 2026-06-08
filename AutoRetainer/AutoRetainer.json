@@ -1,8 +1,8 @@
 {
-  "Author": "кайт машина (Puni.sh), NightmareXIV",
+  "Author": "NightmareXIV, kawaii",
   "Name": "AutoRetainer",
   "InternalName": "AutoRetainer",
-  "AssemblyVersion": "4.6.0.8",
+  "AssemblyVersion": "4.6.1.2",
   "Description": "轻松收取并派遣雇员探险。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/LienChan666/AutoRetainer",
